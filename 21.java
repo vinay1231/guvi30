@@ -24,7 +24,7 @@ class Ideone
 
 		int m=0,k=0;
 
-		for (int i=1;i<=n;i++)
+		 for (int i=1;i<=n;i++)
 
 		  {
 
